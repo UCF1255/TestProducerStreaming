@@ -41,7 +41,8 @@ namespace TestProducerStreaming
 
             var client = new Producer(router);
             Console.WriteLine(client);
-            var result = client.SendMessageAsync(task.TopicName, new[] { new Message("Hi Hello! Welcome to Kafka!") }).GetAwaiter().GetResult();
+            Console.WriteLine(JsonConvert.SerializeObject(task));
+            var result = client.SendMessageAsync(task.TopicName, new[] { new Message(JsonConvert.SerializeObject(task)) }).GetAwaiter().GetResult();
             Console.WriteLine("Response: P{0}, O{1} : {2}", result[0].PartitionId, result[0].Offset, result[0].Topic);
             Console.ReadLine();
         }
