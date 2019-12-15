@@ -1,0 +1,14 @@
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\TestProducerStreaming.exe
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\TestProducerStreaming.deps.json
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\TestProducerStreaming.runtimeconfig.json
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\TestProducerStreaming.runtimeconfig.dev.json
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\TestProducerStreaming.dll
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\TestProducerStreaming.pdb
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\kafka-net.dll
+C:\Users\single\Desktop\TestData\TestProducerStreaming\obj\Debug\netcoreapp3.1\TestProducerStreaming.AssemblyInfoInputs.cache
+C:\Users\single\Desktop\TestData\TestProducerStreaming\obj\Debug\netcoreapp3.1\TestProducerStreaming.AssemblyInfo.cs
+C:\Users\single\Desktop\TestData\TestProducerStreaming\obj\Debug\netcoreapp3.1\TestProducerStreaming.csproj.CopyComplete
+C:\Users\single\Desktop\TestData\TestProducerStreaming\obj\Debug\netcoreapp3.1\TestProducerStreaming.dll
+C:\Users\single\Desktop\TestData\TestProducerStreaming\obj\Debug\netcoreapp3.1\TestProducerStreaming.pdb
+C:\Users\single\Desktop\TestData\TestProducerStreaming\obj\Debug\netcoreapp3.1\TestProducerStreaming.csprojAssemblyReference.cache
+C:\Users\single\Desktop\TestData\TestProducerStreaming\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
